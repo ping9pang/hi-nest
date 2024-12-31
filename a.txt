@@ -1,0 +1,1 @@
+//테스팅과 관련된 스크립트 5가지 : test, watch, cov, debug, e2e (end to end)
